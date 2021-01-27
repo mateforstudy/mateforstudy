@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'JMateForStudy'
+title: 'MateForStudy'
 
 google_analytics_id: ""
 homepage:

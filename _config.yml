@@ -1,5 +1,5 @@
 baseurl: '/mateforstudy'
-url: 'https://mateforstudy.github.io'
+url: https://mateforstudy.github.io
 exclude: ['README.md']
 permalink: pretty
 title: 'MateForStudy'
